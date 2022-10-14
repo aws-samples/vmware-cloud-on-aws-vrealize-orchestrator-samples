@@ -1,11 +1,6 @@
-## My Project
+## Managing VMware Cloud on AWS using VMware vRealize Orchestrator - Code Samples
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+These code samples can be imported into vRealize Orchestrator to help you start managing VMware Cloud on AWS using vRealize Orchestrator.  There is a blog post supporting these samples which can be found here (address to be updated).  
 
 ## Security
 
